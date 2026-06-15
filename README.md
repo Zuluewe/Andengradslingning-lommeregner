@@ -1,0 +1,1 @@
+# Andengradslingning-lommeregner
