@@ -1,0 +1,4 @@
+Request
+numpy
+matplotlib
+pyside6
